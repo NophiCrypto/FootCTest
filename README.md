@@ -1,1 +1,1 @@
-# FootCTest
+https://nophicrypto.github.io/FootCTest/
